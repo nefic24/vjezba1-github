@@ -1,3 +1,4 @@
+# Ovo je template za klasu
 class Vozilo:
     def __init__(self, marka):
         self.marka = marka
