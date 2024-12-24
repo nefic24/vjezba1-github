@@ -19,3 +19,5 @@ class Auto(Vozilo):
     def __init__(self, marka, model):
         super().__init__(marka)
         self.model = model
+
+# Ponovo provjeravamo
