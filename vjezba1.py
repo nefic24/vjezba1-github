@@ -21,3 +21,4 @@ class Auto(Vozilo):
         self.model = model
 
 # Ponovo provjeravamo
+# Vježba - GitHub
